@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rupalipatwa-bit
-- 👀 My job is not to code but hire you; Yes you~ who is coding like a poetry :)
-- 🌱 I’m currently learning to source profile from github and terminologies around it.
-- 💞️ I’m looking to collaborate with versatile engineers who “Code, Craft, Conquer”
-- 📫 How to reach me rupali.patwa@walmart.com
+- 👀 I may not be here to code, but I’m here to find the people who do, the ones who code like poetry.
+- 🌱 Finding talent through technical profiles, engineering terminologies, and developer communities.
+- 💞️ I’m looking to collaborate with versatile coders who “Code, Craft, Conquer”
 <!---
 Rupalipatwa-bit/Rupalipatwa-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
